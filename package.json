@@ -1,0 +1,23 @@
+{
+  "name": "mail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generator.js",
+  "scripts": {
+    "start": "node generator.js",
+    "generate": "node generator.js",
+    "scrap": "node scrapper.js",
+    "compile:scss": "node-sass template/*.scss -o template/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^2.4.2",
+    "ejs": "^3.1.6",
+    "html-minifier": "^4.0.0",
+    "linkedin-profile-scraper": "^2.3.1",
+    "mime": "^2.5.2",
+    "node-sass": "^6.0.0"
+  }
+}
