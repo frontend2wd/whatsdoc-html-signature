@@ -207,7 +207,7 @@ p {
 .user-template .user-whatsdoc {
   display: block;
   width: 155px;
-  border-left: 0.75px solid #e8e8e8;
+  border-left: 0.75px solid #2FABE2;
   padding-left: 10px;
 }
 @media screen and (max-width: 550px) {
@@ -348,5 +348,5 @@ p {
   width: 100%;
 }
 .social-media {
-  padding-top: 20px;
+  padding-top: 15px;
 }
