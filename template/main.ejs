@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Mail Template</title>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+      @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
     </style>
     <style>
       .user-avatar-image {
@@ -33,9 +33,10 @@
             </p>
             <br />
             <p class="pharagraph">
-              Every time a user downloads WhatsDoc app, we provide 1 day worth of grain seeds to nourish a child in
-              Malawi. This is made possible through WhatsDoc’s partnership with B1G1 - Business for Good. Creating small
-              but meaningful impacts, one email at a time.
+              Every time a user downloads WhatsDoc app, we provide 1 day worth
+              of grain seeds to nourish a child in Malawi. This is made possible
+              through WhatsDoc’s partnership with B1G1 - Business for Good.
+              Creating small but meaningful impacts, one email at a time.
             </p>
             <br />
           </td>
@@ -48,7 +49,10 @@
                   <td class="col-avatar">
                     <div class="user-avatar">
                       <div class="user-avatar-image">
-                        <img src="<%= config.BASE_DOMAIN %>/avatars/<%= user.name %>.jpg" alt="" />
+                        <img
+                          src="<%= config.BASE_DOMAIN %>/avatars/<%= user.name %>.jpg"
+                          alt=""
+                        />
                       </div>
                     </div>
                   </td>
@@ -64,7 +68,11 @@
                         <tr>
                           <td>
                             <center>
-                              <img src="<%= config.BASE_DOMAIN %>/assets/icons/phone-blue.png" height="12px" alt="" />
+                              <img
+                                src="<%= config.BASE_DOMAIN %>/assets/icons/phone-blue.png"
+                                height="12px"
+                                alt=""
+                              />
                             </center>
                           </td>
                           <td>
@@ -76,7 +84,11 @@
                         <tr>
                           <td>
                             <center>
-                              <img src="<%= config.BASE_DOMAIN %>/assets/icons/mail-blue.png" height="12px" alt="" />
+                              <img
+                                src="<%= config.BASE_DOMAIN %>/assets/icons/mail-blue.png"
+                                height="12px"
+                                alt=""
+                              />
                             </center>
                           </td>
                           <td>
@@ -89,13 +101,17 @@
                           <td>
                             <center>
                               <a href="<%=  user.linkedin %>" target="_blank">
-                                <img src="<%= config.BASE_DOMAIN %>/assets/icons/linkedin-blue.png" height="12px" alt="" />
+                                <img
+                                  src="<%= config.BASE_DOMAIN %>/assets/icons/linkedin-blue.png"
+                                  height="12px"
+                                  alt=""
+                                />
                               </a>
                             </center>
                           </td>
                           <td>
                             <a href="<%=  user.linkedin %>" target="_blank">
-                              <span><%= user.linkedin.split('/').pop() %></span>
+                              <span><%= user.short %></span>
                             </a>
                           </td>
                         </tr>
@@ -105,7 +121,11 @@
                   <td class="col-whatsdoc">
                     <div class="user-whatsdoc">
                       <center>
-                        <a href="https://www.linktr.ee/whatsdoc" target="_blank" class="center">
+                        <a
+                          href="https://www.linktr.ee/whatsdoc"
+                          target="_blank"
+                          class="center"
+                        >
                           <img
                             src="<%= config.BASE_DOMAIN %>/assets/icons/logo.png"
                             class="center logo"
@@ -113,49 +133,69 @@
                             alt=""
                           />
                         </a>
+                        <div class="social-media">
+                          <a
+                            href="https://www.facebook.com/whatsdoc.sg/"
+                            target="_blank"
+                            class="center"
+                          >
+                            <img
+                              src="<%= config.BASE_DOMAIN %>/assets/icons/Facebook.png"
+                              class="center logo"
+                              height="20px"
+                              alt=""
+                            />
+                          </a>
+                          <a
+                            href="https://twitter.com/whatsdoc_my"
+                            target="_blank"
+                            class="center"
+                          >
+                            <img
+                              src="<%= config.BASE_DOMAIN %>/assets/icons/Twitter.png"
+                              class="center logo"
+                              height="20px"
+                              alt=""
+                            />
+                          </a>
+                          <a
+                            href="https://instagram.com/whatsdoc.sg"
+                            target="_blank"
+                            class="center"
+                          >
+                            <img
+                              src="<%= config.BASE_DOMAIN %>/assets/icons/Instagram.png"
+                              class="center logo"
+                              height="20px"
+                              alt=""
+                            />
+                          </a>
+                          <a
+                            href="https://www.youtube.com/channel/UCGRQVKMJd0-P8yeL3KFeklQ"
+                            target="_blank"
+                            class="center"
+                          >
+                            <img
+                              src="<%= config.BASE_DOMAIN %>/assets/icons/Youtube.png"
+                              class="center logo"
+                              height="20px"
+                              alt=""
+                            />
+                          </a>
+                          <a
+                            href="https://www.whatsdoc.com/"
+                            target="_blank"
+                            class="center"
+                          >
+                            <img
+                              src="<%= config.BASE_DOMAIN %>/assets/icons/Web.png"
+                              class="center logo"
+                              height="20px"
+                              alt=""
+                            />
+                          </a>
+                        </div>
                       </center>
-                      <div>
-                        <a href="https://www.facebook.com/whatsdoc.sg/" target="_blank" class="center">
-                          <img
-                            src="<%= config.BASE_DOMAIN %>/assets/icons/Facebook.png"
-                            class="center logo"
-                            height="20px"
-                            alt=""
-                          />
-                        </a>
-                        <a href="https://twitter.com/whatsdoc_my" target="_blank" class="center">
-                          <img
-                            src="<%= config.BASE_DOMAIN %>/assets/icons/Twitter.png"
-                            class="center logo"
-                            height="20px"
-                            alt=""
-                          />
-                        </a>
-                        <a href="https://instagram.com/whatsdoc.sg" target="_blank" class="center">
-                          <img
-                            src="<%= config.BASE_DOMAIN %>/assets/icons/Instagram.png"
-                            class="center logo"
-                            height="20px"
-                            alt=""
-                          />
-                        </a>
-                        <a href="https://www.youtube.com/channel/UCGRQVKMJd0-P8yeL3KFeklQ" target="_blank" class="center">
-                          <img
-                            src="<%= config.BASE_DOMAIN %>/assets/icons/Youtube.png"
-                            class="center logo"
-                            height="20px"
-                            alt=""
-                          />
-                        </a>
-                        <a href="https://www.whatsdoc.com/" target="_blank" class="center">
-                          <img
-                            src="<%= config.BASE_DOMAIN %>/assets/icons/Web.png"
-                            class="center logo"
-                            height="20px"
-                            alt=""
-                          />
-                        </a>
-                      </div>
                     </div>
                   </td>
                 </tr>
@@ -170,9 +210,11 @@
               <div class="alert-note w-100">
                 <div class="wrap-padding">
                   <p>
-                    <b>IMPORTANT:</b> The contents of this email and any attachments are confidential. They are intended
-                    for the named recipient(s) only. If you have received this email by mistake, please notify the
-                    sender immediately and do not disclose the contents to anyone or make copies thereof.
+                    <b>IMPORTANT:</b> The contents of this email and any
+                    attachments are confidential. They are intended for the
+                    named recipient(s) only. If you have received this email by
+                    mistake, please notify the sender immediately and do not
+                    disclose the contents to anyone or make copies thereof.
                   </p>
                 </div>
               </div>

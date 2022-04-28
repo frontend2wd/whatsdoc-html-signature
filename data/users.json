@@ -5,7 +5,8 @@
     "role": "CEO & Founder",
     "phone": "(+65) 84100040",
     "email": "james@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/drjameswong/"
+    "linkedin": "https://www.linkedin.com/in/drjameswong/",
+    "short": "/drjameswong"
   },
   {
     "first_name": "Ching Kuan",
@@ -13,7 +14,8 @@
     "role": "CTO",
     "phone": "(+65) 81397595",
     "email": "cto@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/ching-kuan-thum-10141a6/"
+    "linkedin": "https://www.linkedin.com/in/ching-kuan-thum-10141a6/",
+    "short": "/ching-kuan-thum-10141a6"
   },
   {
     "first_name": "Pasong",
@@ -21,7 +23,8 @@
     "role": "CEO, Laos",
     "phone": "(+856) 2052415364",
     "email": "pasong@whatsdoc.la",
-    "linkedin": "https://www.linkedin.com/in/pasong-lattana-29ab1a141/"
+    "linkedin": "https://www.linkedin.com/in/pasong-lattana-29ab1a141/",
+    "short": "/pasong-lattana-29ab1a141"
   },
   {
     "first_name": "Hasan",
@@ -29,7 +32,8 @@
     "role": "Senior Backend Developer",
     "phone": "(+62) 82127264996",
     "email": "technical@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/hasan-farisi/"
+    "linkedin": "https://www.linkedin.com/in/hasan-farisi/",
+    "short": "/hasan-farisi"
   },
   {
     "first_name": "Neysa",
@@ -37,7 +41,8 @@
     "role": "Quality Assurance",
     "phone": "(+62) 89516210335",
     "email": "quality@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/alodia-neysa-194b481b7/"
+    "linkedin": "https://www.linkedin.com/in/alodia-neysa-194b481b7/",
+    "short": "/alodia-neysa-194b481b7"
   },
   {
     "first_name": "Jayadi",
@@ -45,7 +50,8 @@
     "role": "Mobile Developer",
     "phone": "(+62) 82213792914",
     "email": "mobile2@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/jayadi-kurniawan-57713ab8/"
+    "linkedin": "https://www.linkedin.com/in/jayadi-kurniawan-57713ab8/",
+    "short": "/jayadi-kurniawan-57713ab8"
   },
   {
     "first_name": "Trias",
@@ -53,7 +59,8 @@
     "role": "Backend Developer",
     "phone": "(+62) 82230059619",
     "email": "backend@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/trias-luthfiana-9b1a3546/"
+    "linkedin": "https://www.linkedin.com/in/trias-luthfiana-9b1a3546/",
+    "short": "/trias-luthfiana-9b1a3546"
   },
   {
     "first_name": "Fajar",
@@ -61,7 +68,8 @@
     "role": "Devops",
     "phone": "(+62) 89655428418",
     "email": "devops@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/fmaulana/"
+    "linkedin": "https://www.linkedin.com/in/fmaulana/",
+    "short": "/fmaulana"
   },
   {
     "first_name": "Leona",
@@ -69,7 +77,8 @@
     "role": "HR Manager",
     "phone": "(+65) 90684373",
     "email": "leona@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/leona-cheong-4092727b/"
+    "linkedin": "https://www.linkedin.com/in/leona-cheong-4092727b/",
+    "short": "/leona-cheong-4092727b"
   },
   {
     "first_name": "Mei Chern",
@@ -77,7 +86,8 @@
     "role": "Marketing Executive",
     "phone": "(+60) 105669049",
     "email": "admin@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/toh-mei-chern/"
+    "linkedin": "https://www.linkedin.com/in/toh-mei-chern/",
+    "short": "/toh-mei-chern"
   },
   {
     "first_name": "Eling",
@@ -85,7 +95,8 @@
     "role": "Marketing Manager",
     "phone": "(+65) 90920930",
     "email": "marketing@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/elinggoh/"
+    "linkedin": "https://www.linkedin.com/in/elinggoh/",
+    "short": "/elinggoh"
   },
   {
     "first_name": "Muhtar",
@@ -93,7 +104,8 @@
     "role": "Mobile Developer",
     "phone": "(+62) 82218567457",
     "email": "mobile@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/muhtar/"
+    "linkedin": "https://www.linkedin.com/in/muhtar/",
+    "short": "/muhtar"
   },
   {
     "first_name": "Sella",
@@ -101,7 +113,8 @@
     "role": "Quality Assurance",
     "phone": "(+62) 8815394038",
     "email": "quality2@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/sella-yolanda/"
+    "linkedin": "https://www.linkedin.com/in/sella-yolanda/",
+    "short": "/sella-yolanda"
   },
   {
     "first_name": "Chandra",
@@ -109,7 +122,8 @@
     "role": "Web Developer",
     "phone": "(+62)81220450240",
     "email": "frontend2@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/chandra-setia-wardani/"
+    "linkedin": "https://www.linkedin.com/in/chandra-setia-wardani/",
+    "short": "/chandra-setia-wardani"
   },
   {
     "first_name": "Frisky",
@@ -117,6 +131,7 @@
     "role": "UX Designer",
     "phone": "(+62)81808466678",
     "email": "design@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/frisky-moraza/"
+    "linkedin": "https://www.linkedin.com/in/frisky-moraza/",
+    "short": "/frisky-moraza"
   }
 ]
