@@ -348,5 +348,7 @@ p {
   width: 100%;
 }
 .social-media {
-  padding-top: 15px;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
 }
