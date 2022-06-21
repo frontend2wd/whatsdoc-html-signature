@@ -36,15 +36,6 @@
     "short": "/hasan-farisi"
   },
   {
-    "first_name": "Neysa",
-    "name": "Alodia Neysa",
-    "role": "Quality Assurance",
-    "phone": "(+62) 89516210335",
-    "email": "quality@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/alodia-neysa-194b481b7/",
-    "short": "/alodia-neysa-194b481b7"
-  },
-  {
     "first_name": "Jayadi",
     "name": "Jayadi Kurniawan",
     "role": "Mobile Developer",
@@ -63,15 +54,6 @@
     "short": "/trias-luthfiana-9b1a3546"
   },
   {
-    "first_name": "Fajar",
-    "name": "Fajar Maulana",
-    "role": "Devops",
-    "phone": "(+62) 89655428418",
-    "email": "devops@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/fmaulana/",
-    "short": "/fmaulana"
-  },
-  {
     "first_name": "Leona",
     "name": "Leona Cheong",
     "role": "HR Manager",
@@ -79,15 +61,6 @@
     "email": "leona@whatsdoc.com",
     "linkedin": "https://www.linkedin.com/in/leona-cheong-4092727b/",
     "short": "/leona-cheong-4092727b"
-  },
-  {
-    "first_name": "Mei Chern",
-    "name": "Toh Mei Chern",
-    "role": "Marketing Executive",
-    "phone": "(+60) 105669049",
-    "email": "admin@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/toh-mei-chern/",
-    "short": "/toh-mei-chern"
   },
   {
     "first_name": "Eling",
@@ -133,5 +106,45 @@
     "email": "design@whatsdoc.com",
     "linkedin": "https://www.linkedin.com/in/frisky-moraza/",
     "short": "/frisky-moraza"
+  },
+  {
+    "first_name": "Kanya",
+    "name": "Kanya Intachat",
+    "role": "Marketing Manager",
+    "phone": "(+60) 162001708",
+    "email": "marketing@whatsdoc.com",
+    "linkedin": "https://www.linkedin.com/in/kanya-intachat-b226b3117/"
+  },
+  {
+    "first_name": "Navina",
+    "name": "Navina Ananalam",
+    "role": "Brand Content Specialist",
+    "phone": "(+60) 1124097074",
+    "email": "media@whatsdoc.com",
+    "linkedin": "https://www.linkedin.com/in/navina-ananalam-2805/"
+  },
+  {
+    "first_name": "Zefri",
+    "name": "Zefri Kurnia Salman",
+    "role": "DevOps",
+    "phone": "(+62) 8122016885",
+    "email": "devops@whatsdoc.com",
+    "linkedin": "https://www.linkedin.com/in/zapra/"
+  },
+  {
+    "first_name": "Odhi",
+    "name": "Odhi Ahmad Hidayat",
+    "role": "Mobile Developer",
+    "phone": "(+62) 85272993360",
+    "email": "mobile3@whatsdoc.com",
+    "linkedin": "https://www.linkedin.com/in/odhi-ahmad-hidayat-526040119/"
+  },
+  {
+    "first_name": "Leo",
+    "name": "Leo Putra Simanjuntak",
+    "role": "Quality Assurance",
+    "phone": "(+62) 81277773834",
+    "email": "quality@whatsdoc.com",
+    "linkedin": "https://www.linkedin.com/in/leo-putra-simanjuntak-561127171/"
   }
 ]
