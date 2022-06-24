@@ -113,7 +113,8 @@
     "role": "Marketing Manager",
     "phone": "(+60) 162001708",
     "email": "marketing@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/kanya-intachat-b226b3117/"
+    "linkedin": "https://www.linkedin.com/in/kanya-intachat-b226b3117/",
+    "short": "/kanya-intachat-b226b3117"
   },
   {
     "first_name": "Navina",
@@ -121,7 +122,8 @@
     "role": "Brand Content Specialist",
     "phone": "(+60) 1124097074",
     "email": "media@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/navina-ananalam-2805/"
+    "linkedin": "https://www.linkedin.com/in/navina-ananalam-2805/",
+    "short": "/navina-ananalam-2805"
   },
   {
     "first_name": "Zefri",
@@ -129,7 +131,8 @@
     "role": "DevOps",
     "phone": "(+62) 8122016885",
     "email": "devops@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/zapra/"
+    "linkedin": "https://www.linkedin.com/in/zapra/",
+    "short": "/zapra"
   },
   {
     "first_name": "Odhi",
@@ -137,7 +140,8 @@
     "role": "Mobile Developer",
     "phone": "(+62) 85272993360",
     "email": "mobile3@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/odhi-ahmad-hidayat-526040119/"
+    "linkedin": "https://www.linkedin.com/in/odhi-ahmad-hidayat-526040119/",
+    "short": "/odhi-ahmad-hidayat-526040119"
   },
   {
     "first_name": "Leo",
@@ -145,6 +149,7 @@
     "role": "Quality Assurance",
     "phone": "(+62) 81277773834",
     "email": "quality@whatsdoc.com",
-    "linkedin": "https://www.linkedin.com/in/leo-putra-simanjuntak-561127171/"
+    "linkedin": "https://www.linkedin.com/in/leo-putra-simanjuntak-561127171/",
+    "short": "/leo-putra-simanjuntak-561127171"
   }
 ]
