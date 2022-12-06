@@ -29,7 +29,7 @@
   {
     "first_name": "Hasan",
     "name": "Hasan Al Farisi",
-    "role": "Backend Lead",
+    "role": "Backend Lead Developer",
     "phone": "(+62) 82127264996",
     "email": "hasan@whatsdoc.com",
     "linkedin": "https://www.linkedin.com/in/hasan-farisi/",
@@ -146,7 +146,7 @@
   {
     "first_name": "Naya",
     "name": "Naya Noorhayatie",
-    "role": "QA & Tech Customer Support",
+    "role": "Communications Manager",
     "phone": "(+62) 81802222518",
     "email": "naya@whatsdoc.com",
     "linkedin": "https://www.linkedin.com/in/naya-noor-hayatie-842864125/",
@@ -169,5 +169,14 @@
     "email": "joyi@whatsdoc.com",
     "linkedin": "https://www.linkedin.com/in/joyitan/",
     "short": "/joyitan"
+  },
+  {
+    "first_name": "Bentang",
+    "name": "Bentang Saepul",
+    "role": "Senior Backend Developer",
+    "phone": "(+62) 82118526535",
+    "email": "bentang@whatsdoc.com",
+    "linkedin": "https://www.linkedin.com/in/bentang-saepul-rohmat-44348284/",
+    "short": "/bentang-saepul-rohmat-44348284"
   }
 ]
