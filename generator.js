@@ -11,6 +11,7 @@ const run = async () => {
   //   const fs = require('fs').promises
   const prefix = 'data:image/jpeg;base64,'
   const fileTemplate = await fs.promises.readFile(path.join(__dirname, './template/main.ejs'), { encoding: 'utf8' })
+  // const fileTemplate = await fs.promises.readFile(path.join(__dirname, './template/new-template.ejs'), { encoding: 'utf8' })
   const styles = fs.readFileSync(path.join(__dirname, './template/style.css')).toString()
 
   for (itm of members) {
